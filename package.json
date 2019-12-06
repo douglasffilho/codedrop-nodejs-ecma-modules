@@ -1,0 +1,15 @@
+{
+  "name": "codedrop-nodejs-ecma-modules",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "repository": "git@github.com:douglasffilho/codedrop-nodejs-ecma-modules.git",
+  "author": "Douglas Fernandes <douglasf.filho@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
